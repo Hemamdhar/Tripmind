@@ -12,6 +12,7 @@
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-google-maps/api": "^2.20.7",
+    "@tailwindcss/vite": "^4.1.17",
     "axios": "^1.13.2",
     "gsap": "^3.13.0",
     "react": "^19.2.0",
